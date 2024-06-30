@@ -16,7 +16,7 @@
     <div class="container py-4 py-xl-5">
         <div class="row mb-5">
             <div class="col-md-8 col-xl-6 text-center mx-auto">
-                <h2>KYLE SHOE'S SHOP POINT OF SALE AND INVENTORY MANAGEMENT SYSTEM</h2>
+                <h2>MMS SHOP POINT OF SALE & INVENTORY MANAGEMENT SYSTEM</h2>
             </div>
         </div>
         <div class="row gy-4 gy-xl-0 row-cols-1 row-cols-md-2 row-cols-xl-3 d-xl-flex justify-content-center align-items-xl-center">

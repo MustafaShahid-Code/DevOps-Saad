@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Login - Point of Sale and Inventory Management System</title>
+    <title>Login - Point of Sale & Inventory Management System</title>
     <meta name="description" content="Point of Sale and Inventory Management System">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&amp;display=swap">
@@ -15,7 +15,7 @@
 <body class="bg-gradient-primary">
     <div class="container">
         <div class="text-center p-4 p-lg-5">
-            <h1 class="fw-bold mb-4"><span style="color: rgb(255, 159, 14);">KYLE SHOE'S SHOP</span><span style="color: rgb(255, 255, 255);"> POINT OF SALE AND INVENTORY MANAGEMENT SYSTEM</span></h1>
+            <h1 class="fw-bold mb-4"><span style="color: rgb(255, 159, 14);">MMS SHOP</span><span style="color: rgb(255, 255, 255);"> POINT OF SALE AND INVENTORY MANAGEMENT SYSTEM</span></h1>
         </div>
         <div class="row justify-content-center">
             <div class="col-md-9 col-lg-12 col-xl-10">

@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Users - Point of Sale and Inventory Management System</title>
+    <title>Users - Point of Sale & Inventory Management System</title>
     <meta name="description" content="Inventory &amp; Point of Sale System">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&amp;display=swap">
@@ -23,10 +23,10 @@
         <div class="d-flex flex-column" id="content-wrapper">
             <div id="content">
                 <nav class="navbar navbar-light navbar-expand bg-white shadow mb-4 topbar static-top">
-                    <div class="container-fluid"><span>KYLE SHOE'S SHOP POINT OF SALE AND INVENTORY MANAGEMENT SYSTEM</span></div>
+                    <div class="container-fluid"><span>MMS SHOP POINT OF SALE AND INVENTORY MANAGEMENT SYSTEM</span></div>
                 </nav>
                 <div class="container-fluid">
-                    <h3 class="text-dark mb-4">Users Management&nbsp;</h3>
+                    <h3 class="text-dark mb-4">User Management&nbsp;</h3>
                     <div class="row">
                         <div class="col-md-6 col-xl-4 mb-4">
                             <div class="card shadow border-start-warning py-2">
@@ -90,7 +90,7 @@
             </div>
             <footer class="bg-white sticky-footer">
                 <div class="container my-auto">
-                    <div class="text-center my-auto copyright"><span>Copyright © Inventory &amp; Point of Sale System 2023</span></div>
+                    <div class="text-center my-auto copyright"><span>Copyright © Inventory &amp; Point of Sale System 2024</span></div>
                 </div>
             </footer>
         </div><a class="border rounded d-inline scroll-to-top" href="#page-top"><i class="fas fa-angle-up"></i></a>
